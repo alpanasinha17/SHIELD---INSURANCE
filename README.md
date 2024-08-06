@@ -2,9 +2,9 @@
 
 This Project is part of data analytics virtual internship at codebasics.
 
-##Video Presentation Link: 
+##Video Presentation Link: https://youtu.be/7SGgbwlM378
 
-## DashBoard Link :
+## DashBoard Link : https://app.powerbi.com/view?r=eyJrIjoiOTY2MDU0NmItMGIzYi00MTNhLWExNzgtMjgxMTk1ZjIyNTk4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 This repository includes the code, datasets, and insights from my analysis for Shield Insurance, a fictional company. This work was part of the #codebasicsvirtualinternship program at AtliQ Technologies.
 
